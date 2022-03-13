@@ -6,5 +6,6 @@ DHT11 sensor, 16x2 LCD screen,  220 ohm resistor
  LDC Display: 
   - temperature in Celsius and Fahrenheit 
   - Humidity in %rh
-  - 
-![Alt text](http://full/path/to/top_view.jpg "Top Down")
+  
+ 
+![Alt text](https://github.com/shad902/Temp-humidity-sensor/blob/main/view1.jpg?raw=true)
