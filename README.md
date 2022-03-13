@@ -8,4 +8,6 @@ DHT11 sensor, 16x2 LCD screen,  220 ohm resistor
   - Humidity in %rh
   
  
-![Alt text](https://github.com/shad902/Temp-humidity-sensor/blob/main/view1.jpg?raw=true)
+
+<img src="https://github.com/shad902/Temp-humidity-sensor/blob/main/Performance%20GIF.gif?raw=true">
+
